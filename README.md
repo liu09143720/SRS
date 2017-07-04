@@ -11,7 +11,7 @@
 
 数据库结构截图
 
-![](https://github.com/liu09143720/SRS/blob/master/img/结构.PNG)
+![](https://github.com/xujianhui1995/SSR/blob/master/%E6%88%AA%E5%9B%BE/%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
 
 时序图
 
