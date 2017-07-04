@@ -13,6 +13,11 @@
 
 ![](https://github.com/liu09143720/SRS/blob/master/img/结构.PNG)
 
+时序图
+
+![](https://github.com/liu09143720/SRS/blob/master/img/Sequence1.PNG)
+
+![](https://github.com/liu09143720/SRS/blob/master/img/Sequence2.PNG)
 
 系统运行结果主要界面截图
 
@@ -26,11 +31,11 @@
 
 课程增删改
 
-![](https://github.com/liu09143720/SRS/blob/master/img/课程增删改.PNG)
+![](https://github.com/liu09143720/SRS/blob/master/img/课程增删改查.PNG)
 
 教师增删改
 
-![](https://github.com/liu09143720/SRS/blob/master/img/教师增删改.PNG)
+![](https://github.com/liu09143720/SRS/blob/master/img/教师增删改查.PNG)
 
 成绩查询
 
