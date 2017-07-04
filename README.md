@@ -31,7 +31,7 @@
 
 课程增删改
 
-![](https://github.com/liu09143720/SRS/blob/master/img/课程增删改查.png)
+![](https://github.com/liu09143720/SRS/blob/master/img/课程增删改.png)
 
 教师增删改
 
